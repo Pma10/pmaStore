@@ -4,7 +4,7 @@
 
 <svelte:head>
 	<title>메인</title>
-	<meta name="description" content="Svelte demo app" />
+	<meta name="description" content="메인페이지" />
 </svelte:head>
 
 <ul class="items-list">

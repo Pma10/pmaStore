@@ -4,7 +4,7 @@
 
 <svelte:head>
 	<title>도움</title>
-	<meta name="description" content="Svelte demo app" />
+	<meta name="description" content="도움" />
 </svelte:head>
 
 <h1>도움이 필요하신가요?</h1>

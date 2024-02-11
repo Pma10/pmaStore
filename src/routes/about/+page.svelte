@@ -3,8 +3,8 @@
 </script>
 
 <svelte:head>
-	<title>About</title>
-	<meta name="description" content="Svelte demo app" />
+	<title>찾아보기</title>
+	<meta name="description" content="찾아보기" />
 </svelte:head>
 
 <h1>찾아보기</h1>
