@@ -36,6 +36,7 @@
 		align-items: center;
 		justify-content: center;
 	}
+
 	.items-list li div{
 		background-color: #303034;
 		margin-right: 3em;
